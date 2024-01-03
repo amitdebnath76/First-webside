@@ -18,3 +18,9 @@
     text-align: justify;
     padding-bottom: 10px;
 }
+.submit{
+    background-color: rgb(18, 142, 100);
+}
+.submit:hover{
+    background-color: rgb(182, 16, 16);
+}
