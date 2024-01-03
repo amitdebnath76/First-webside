@@ -1,3 +1,20 @@
-li{
-    background-color: blue;
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.Head{
+    text-align: center;
+    background-color: rgb(129, 247, 11);
+    color: rgb(28, 103, 103);
+}
+.form{
+    margin: 10px;
+    
+    
+}
+.form-input{
+    background-color: aquamarine;
+    text-align: justify;
+    padding-bottom: 10px;
 }
