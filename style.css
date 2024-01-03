@@ -24,3 +24,9 @@
 .submit:hover{
     background-color: rgb(182, 16, 16);
 }
+.paragraph{
+    text-align: center;
+    margin: 10px;
+    color: aquamarine;
+    background-color: rgb(104, 104, 242);
+}
