@@ -3,30 +3,16 @@
     padding: 0px;
 }
 
-.Head{
+.heading{
     text-align: center;
-    background-color: rgb(129, 247, 11);
-    color: rgb(28, 103, 103);
 }
-.form{
-    margin: 10px;
-    
-    
+
+label{
+    display: block;
+    margin-bottom: 5px;
+    padding: 5px;
 }
-.form-input{
+.student-info{
     background-color: aquamarine;
-    text-align: justify;
-    padding-bottom: 10px;
-}
-.submit{
-    background-color: rgb(18, 142, 100);
-}
-.submit:hover{
-    background-color: rgb(182, 16, 16);
-}
-.paragraph{
-    text-align: center;
-    margin: 10px;
-    color: aquamarine;
-    background-color: rgb(104, 104, 242);
+    
 }
